@@ -1,0 +1,8 @@
+[25-Jul-2022 18:27:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/mysupert/public_html/app/Http/Controllers/Admin/HomeController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Controllers/Admin/HomeController.php on line 16
+[25-Jul-2022 19:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/mysupert/public_html/app/Http/Controllers/Admin/InsertLeadsController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Controllers/Admin/InsertLeadsController.php on line 14

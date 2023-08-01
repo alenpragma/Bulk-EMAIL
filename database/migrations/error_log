@@ -1,0 +1,84 @@
+[18-Jul-2022 18:20:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[18-Jul-2022 18:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[18-Jul-2022 18:31:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[18-Jul-2022 18:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[18-Jul-2022 18:43:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php on line 7
+[18-Jul-2022 18:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php on line 7
+[18-Jul-2022 18:54:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php on line 7
+[19-Jul-2022 02:52:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[22-Jul-2022 05:25:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jul-2022 05:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jul-2022 05:42:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jul-2022 11:41:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php on line 7
+[22-Jul-2022 11:46:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php on line 7
+[22-Jul-2022 11:56:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php on line 7
+[22-Jul-2022 14:12:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jul-2022 14:36:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jul-2022 15:06:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jul-2022 15:28:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 23:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_23_215200_create_insert_leads_table.php on line 7
+[23-Jul-2022 23:38:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_24_070543_create_smtps_table.php on line 7
+[23-Jul-2022 23:48:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/migrations/2022_06_26_031949_create_messages_table.php on line 7

@@ -1,0 +1,20 @@
+[01-Jul-2022 20:44:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mysupert/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Kernel.php on line 7
+[24-Jul-2022 14:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mysupert/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Kernel.php on line 7
+[25-Jul-2022 04:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mysupert/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Kernel.php on line 7
+[25-Jul-2022 05:22:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mysupert/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Kernel.php on line 7
+[25-Jul-2022 05:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mysupert/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Http/Kernel.php on line 7

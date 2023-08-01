@@ -1,0 +1,20 @@
+[01-Jul-2022 10:45:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php on line 7
+[05-Jul-2022 21:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php on line 7
+[07-Jul-2022 10:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php on line 7
+[16-Jul-2022 23:07:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php on line 7
+[23-Jul-2022 21:01:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/database/seeders/DatabaseSeeder.php on line 7

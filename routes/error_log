@@ -1,0 +1,84 @@
+[07-Jul-2022 12:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mysupert/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/channels.php on line 16
+[07-Jul-2022 13:19:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mysupert/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/channels.php on line 16
+[07-Jul-2022 14:05:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mysupert/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/console.php on line 17
+[08-Jul-2022 03:54:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mysupert/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/console.php on line 17
+[08-Jul-2022 06:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[08-Jul-2022 10:36:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[08-Jul-2022 11:04:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mysupert/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/channels.php on line 16
+[08-Jul-2022 11:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mysupert/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/channels.php on line 16
+[09-Jul-2022 13:36:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[10-Jul-2022 02:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/web.php on line 16
+[10-Jul-2022 04:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mysupert/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/console.php on line 17
+[10-Jul-2022 04:41:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mysupert/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/console.php on line 17
+[11-Jul-2022 03:21:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/web.php on line 16
+[11-Jul-2022 03:34:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/web.php on line 16
+[11-Jul-2022 03:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/web.php on line 16
+[12-Jul-2022 12:44:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[31-Jul-2022 14:55:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[01-Aug-2022 03:42:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mysupert/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/console.php on line 17
+[01-Aug-2022 23:09:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/api.php on line 17
+[02-Aug-2022 00:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mysupert/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/channels.php on line 16
+[02-Aug-2022 09:17:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mysupert/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/routes/web.php on line 16

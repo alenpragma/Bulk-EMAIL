@@ -1,0 +1,144 @@
+[30-Jun-2022 20:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/broadcasting.php on line 18
+[30-Jun-2022 20:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/cache.php on line 18
+[19-Jul-2022 01:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/filesystems.php on line 16
+[21-Jul-2022 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/database.php on line 18
+[21-Jul-2022 09:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/services.php on line 18
+[21-Jul-2022 09:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/broadcasting.php on line 18
+[22-Jul-2022 17:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/services.php on line 18
+[26-Jul-2022 14:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/app.php on line 16
+[26-Jul-2022 15:03:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/hashing.php on line 32
+[26-Jul-2022 15:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/logging.php on line 20
+[26-Jul-2022 15:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/mail.php on line 16
+[26-Jul-2022 15:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/queue.php on line 16
+[26-Jul-2022 15:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/sanctum.php on line 16
+[26-Jul-2022 15:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/session.php on line 21
+[26-Jul-2022 15:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/mysupert/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/view.php on line 17
+[26-Jul-2022 16:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/broadcasting.php on line 18
+[26-Jul-2022 16:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/database.php on line 18
+[26-Jul-2022 16:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/filesystems.php on line 16
+[26-Jul-2022 16:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/services.php on line 18
+[27-Jul-2022 09:34:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/hashing.php on line 32
+[27-Jul-2022 10:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/logging.php on line 20
+[27-Jul-2022 11:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/sanctum.php on line 16
+[27-Jul-2022 13:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/session.php on line 21
+[28-Jul-2022 14:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/broadcasting.php on line 18
+[28-Jul-2022 14:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/cache.php on line 18
+[28-Jul-2022 16:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/cache.php on line 18
+[28-Jul-2022 16:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/database.php on line 18
+[28-Jul-2022 17:37:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/filesystems.php on line 16
+[28-Jul-2022 18:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/hashing.php on line 32
+[29-Jul-2022 17:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/cache.php on line 18
+[29-Jul-2022 18:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/mail.php on line 16
+[29-Jul-2022 18:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/queue.php on line 16
+[30-Jul-2022 05:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/app.php on line 16
+[30-Jul-2022 06:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/mysupert/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/view.php on line 17
+[01-Aug-2022 12:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/app.php on line 16
+[01-Aug-2022 12:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mysupert/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/config/logging.php on line 20

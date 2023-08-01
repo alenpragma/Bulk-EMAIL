@@ -1,0 +1,32 @@
+[01-Jul-2022 22:57:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/InsertLead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/InsertLead.php on line 8
+[02-Jul-2022 00:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/Smtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/Smtp.php on line 8
+[02-Jul-2022 00:47:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mysupert/public_html/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/User.php on line 11
+[02-Jul-2022 03:38:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/Message.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/Message.php on line 8
+[25-Jul-2022 16:54:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/InsertLead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/InsertLead.php on line 8
+[25-Jul-2022 19:05:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mysupert/public_html/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/User.php on line 11
+[25-Jul-2022 19:24:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/Smtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/Smtp.php on line 8
+[25-Jul-2022 20:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mysupert/public_html/app/Models/Message.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/app/Models/Message.php on line 8

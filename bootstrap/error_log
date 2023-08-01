@@ -1,0 +1,20 @@
+[30-Jun-2022 17:58:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/mysupert/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/bootstrap/app.php on line 14
+[02-Jul-2022 06:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/mysupert/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/bootstrap/app.php on line 14
+[02-Jul-2022 06:37:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/mysupert/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/bootstrap/app.php on line 14
+[04-Jul-2022 13:45:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/mysupert/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/bootstrap/app.php on line 14
+[22-Jul-2022 11:05:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/mysupert/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mysupert/public_html/bootstrap/app.php on line 14
